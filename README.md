@@ -48,4 +48,7 @@ Copy from him simply from below, change the username and put it here like a pict
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-### 
+### Template
+at Datamics-Webinar there are some templates to use
+
+
