@@ -1,6 +1,6 @@
-# Heading1
-## this will get smaller
-### and this even smaller
+# Merel Vuijk
+## Data Coordinator at Intersport
+### Biel/Bienne
 #### smallest
 
 Paragraphs that are *interesting*, something **bold**, ~~i dont want to remember~~
